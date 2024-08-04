@@ -2,7 +2,7 @@
 
 ## Overview
 
-_Welcome to **Quiz Application** 🎉<br>_
+Welcome to **Quiz Application** 🎉  
 The Quiz Application is a monolithic web application designed to create, manage, and take quizzes. This application is useful for generating random quizzes based on categories and evaluating quiz responses. It leverages Spring Boot for the backend and uses PostgreSQL for data persistence.
 
 ## 🚀 Features
